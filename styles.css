@@ -1,21 +1,21 @@
 html {
   font-family: Verdana;
 }
-body {
-  text-align: center;
-}
+
 header {
   font-size: 74px;
-  width: 50%;
-  display: inline-flex;
+  text-align: center;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  width: 50%;
+  margin: 16px auto;
 }
 div {
   height: 200px;
   background-color: coral;
   color: white;
   text-transform: uppercase;
-  height: 200px;
+  text-align: center;
+  line-height: 200px;
 }
